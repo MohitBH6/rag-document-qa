@@ -24,6 +24,7 @@ python-dotenv>=1.0.1
 
 # Utilities
 tiktoken>=0.6.0
+langchain-groq
 
 # Optional but recommended
 jupyter>=1.0.0
