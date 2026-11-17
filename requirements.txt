@@ -30,3 +30,4 @@ jupyter>=1.0.0
 notebook>=7.1.2
 
 langchain-huggingface
+sentence-transformers
