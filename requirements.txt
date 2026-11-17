@@ -28,3 +28,5 @@ tiktoken>=0.6.0
 # Optional but recommended
 jupyter>=1.0.0
 notebook>=7.1.2
+
+langchain-huggingface
